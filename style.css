@@ -112,6 +112,7 @@ header{
 .skill img{
     margin-left: 30px;
 }
+/* awlays keep a positive part */
 .about{
     margin-top: 135px;
 }
@@ -151,6 +152,7 @@ header{
    background: #FFFFFF;
    margin-top: 20px;
 }
+/* footer part */
 .all{
     display: flex;
     background-color: black;
@@ -159,11 +161,13 @@ header{
    
     justify-content: space-around;
 }
+/* Future */
 .fu-text{
     font-weight: 700;
     font-size: 45px;
     color: #F8F8F8;
 }
+/* subscribe */
 .sub-text{
     font-weight: 600;
     font-size: 25px;
@@ -172,10 +176,29 @@ header{
 }
 form input{
     width: 325px;
-    height: 64px;
-    border: 8px;
+    height: 54px;
+    border-radius: 8px;
+    border-color: #F8F8F8;
+    background-color: #151414;
+    margin-bottom: 20px;
    
     
     
+}
+form button{
+    font-weight: 100;
+    font-size: 15px;
+
+    color: #FFFFFF;
+    width: 170.11px;
+    height: 64px;
+    background-color: #2121a7;
+    border-radius: 8px;
+}
+.fu-sub-text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 20px;
 }
 

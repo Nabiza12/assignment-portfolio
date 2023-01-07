@@ -152,6 +152,36 @@ header{
    background: #FFFFFF;
    margin-top: 20px;
 }
+/* our sevices */
+.service{
+    background-color: #005FAC;
+    height: 600px;
+}
+
+.s-index{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #151414;
+    padding-top: 50px;
+}
+.ser-text{
+    text-align: center;
+
+}
+.ser-btn{
+    font-weight: 100;
+    font-size: 15px;
+
+    color: #FFFFFF;
+    width: 170.11px;
+    height: 64px;
+    background-color: #2121a7;
+    border-radius: 8px;
+
+}
+
+
 /* footer part */
 .all{
     display: flex;
@@ -201,4 +231,6 @@ form button{
     color: #FFFFFF;
     margin-top: 20px;
 }
+
+
 
